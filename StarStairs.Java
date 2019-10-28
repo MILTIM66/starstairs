@@ -31,7 +31,6 @@ public class StarStairs
         }
     }
 
-
 public static void main (String[] args) throws IOException
     {
         BufferedReader keyboardInput = new BufferedReader (new InputStreamReader (System.in));
